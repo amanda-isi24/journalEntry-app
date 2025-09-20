@@ -7,7 +7,7 @@ A fullstack journaling app with React frontend and Node backend.
 - Responsive design
 
 ## Demo
-👉 [Live Demo on Netlify](https://your-app.netlify.app)
+👉 [Live Demo on Netlify] https://soft-dasik-03f36b.netlify.app/
 
 ## How to Run Locally
 1. Clone the repo
